@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{09B6F2D1-E16E-4F89-A7C0-D0AF199FE16F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SpecFlowCodatUI/Pages/HomePage.cs">
+    <Files>
+      <File FileName="SpecFlowCodatUI/Features/NewTimesheet.feature" Line="7" Column="55" />
+      <File FileName="SpecFlowCodatUI/StepDefinitions/NewTimesheetSteps.cs" Line="5" Column="2" />
+      <File FileName="SpecFlowCodatUI/Pages/HomePage.cs" Line="6" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SpecFlowCodatUI" expanded="True">
+            <Node name="SpecFlowCodatUI" expanded="True">
+              <Node name="Features" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="HomePage.cs" selected="True" />
+              </Node>
+              <Node name="StepDefinitions" expanded="True" />
+              <Node name="Utilities" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SpecFlowCodatUI" expanded="True">
+            <Node name="SpecFlowCodatUI" expanded="True">
+              <Node name="SpecFlowCodatUI.Features" expanded="True">
+                <Node name="AddNewEmployeeTimesheetFeature" expanded="True">
+                  <Node name="UserNavigatesToNewTimesheetPage" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SpecFlowCodatUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
